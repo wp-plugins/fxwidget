@@ -14,8 +14,8 @@ FxWidget provides a widget for displaying official ECB exchange rates for the Eu
 
 Localizations:
 
-de_DE
-en_US
+* de_DE
+* en_US
 
 == Installation ==
 
