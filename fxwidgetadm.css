@@ -1,0 +1,9 @@
+.fxwidget_checkbox {
+	float: left;
+	padding-right: 1em;
+	margin-bottom: 1em;
+}
+
+.fxwidget_checkbox .checkbox {
+	margin-right: 0.2em;
+}

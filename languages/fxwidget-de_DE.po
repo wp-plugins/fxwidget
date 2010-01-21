@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FxWidget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-20 20:10+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thomas Borowski <mail@thomasborowski.de>\n"
+"Language-Team: Finango <mail@finango.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /Users/thomas/Documents/MAMP/htdocs/wptestserver/wp-content/plugins/fxwidget/\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: /Users/thomas/Documents/MAMP/htdocs/wptestserver/wp-content/plugins/fxwidget\n"
+
+#: /Users/thomas/Documents/MAMP/htdocs/wptestserver/wp-content/plugins/fxwidget/fxwidget.php:33
+msgid "Shows ECB exchange rates for the Euro."
+msgstr "Zeigt Euro-Wechselkurse der EZB an."
+
+#: /Users/thomas/Documents/MAMP/htdocs/wptestserver/wp-content/plugins/fxwidget/fxwidget.php:39
+msgid "FxWidget"
+msgstr "FxWidget"
+
+#: /Users/thomas/Documents/MAMP/htdocs/wptestserver/wp-content/plugins/fxwidget/fxwidget.php:48
+msgid "Euro Exchange Rates"
+msgstr "Euro Wechselkurse"
+
+#: /Users/thomas/Documents/MAMP/htdocs/wptestserver/wp-content/plugins/fxwidget/fxwidget.php:125
+msgid "FxWidget by"
+msgstr "FxWidget von"
+
+#: /Users/thomas/Documents/MAMP/htdocs/wptestserver/wp-content/plugins/fxwidget/fxwidget.php:128
+msgid "No rates found"
+msgstr "Keine Kurse gefunden"
+
+#: /Users/thomas/Documents/MAMP/htdocs/wptestserver/wp-content/plugins/fxwidget/fxwidget.php:205
+msgid "Title:"
+msgstr "Titel:"
+
+#: /Users/thomas/Documents/MAMP/htdocs/wptestserver/wp-content/plugins/fxwidget/fxwidget.php:243
+msgid "Give developer credit"
+msgstr "Entwickler danken"
+
+#~ msgid "powered by"
+#~ msgstr "FxWidget von"
+
